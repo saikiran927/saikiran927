@@ -2,6 +2,8 @@
 
 <!--
 **saikiran927/saikiran927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I’m Sai Kiran, an AIML Enthusiast and passionate about solving real-world problems through Machine Learning and AI.
+ Currently pursuing a Graduated🎓 in AIML, I thrive on turning data into actionable insights and building intelligent systems that drive innovation.
 
 Here are some ideas to get you started:
 
